@@ -25,7 +25,7 @@
           endwhile;
         else:
       ?>
-        <li class="news-list-item">お探しの記事はありませんでした</li>
+        <li class="news-list-item">お探しの記事はありません</li>
       <?php endif; ?>
     </ul>
   </article>
