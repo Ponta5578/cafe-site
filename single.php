@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 
 <main>
+
   <div class="header-image">
       <img src="<?php echo get_template_directory_uri(); ?>/images/header-single.jpg" srcset="<?php echo get_template_directory_uri(); ?>/images/header-single.jpg 1x,<?php echo get_template_directory_uri(); ?>/images/header-single@2x.jpg 2x">
   </div>

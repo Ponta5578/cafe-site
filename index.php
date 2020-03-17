@@ -24,7 +24,7 @@
           endwhile;
         else:
       ?>
-        <li>お探しの記事はありませんでした</li>
+        <li>お探しの記事はありません/li>
       <?php endif; ?>
     </ul>
   </article>
@@ -69,7 +69,7 @@
           endwhile;
         else:
       ?>
-        <li>お探しの記事はありませんでした</li>
+        <li>お探しの記事はありません</li>
       <?php endif; ?>
   </ul>
   <div class="text-center">
