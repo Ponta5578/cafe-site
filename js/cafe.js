@@ -1,3 +1,4 @@
+// サイト縮小の際にアイコンメニューが表示される
 jQuery(function(){
   jQuery(".header-open-button").click(function(){
     jQuery(".main-navigation").fadeIn();
