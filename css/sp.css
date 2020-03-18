@@ -1,4 +1,4 @@
-/* common */
+/* commonのCSS */
 
 @media (max-width:768px){
   .column-center{
@@ -18,7 +18,7 @@
   }
 }
 
-/* header */
+/* headerのCSS */
 
 @media (max-width:768px){
   .main-navigation{
@@ -63,7 +63,7 @@
   }
 }
 
-/* footer */
+/* footerのCSS */
 
 @media (max-width:768px){
   .footer{
@@ -91,7 +91,7 @@
   }
 }
 
-/* top */
+/* top部分 */
 
 @media (max-width:768px){
   .kv{
@@ -178,7 +178,7 @@
   }
 }
 
-/* shop */
+/* shop部分 */
 
 @media (max-width:768px){
   .shop-table th,
@@ -202,7 +202,7 @@
   }
 }
 
-/* menu */
+/* menu部分 */
 
 @media (max-width:768px){
   .menu-list{
@@ -221,7 +221,7 @@
   }
 }
 
-/* special */
+/* special部分 */
 
 @media (max-width:768px){
   .special-list{
@@ -240,7 +240,7 @@
   }
 }
 
-/* contact */
+/* contact部分 */
 
 @media (max-width:768px){
   .contact-table th{
