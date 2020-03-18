@@ -7,7 +7,7 @@
     <dl class="footer-info-table">
       <dt>営業時間</dt><dd>早朝 6:00 - 22:00</dd>
       <dt>電話番号</dt><dd>03-2525-2525</dd>
-      <dt>住所</dt><dd>東京都 ポンタ<br>ポンタビルディング 1F</dd>
+      <dt>住所</dt><dd>東京都 <br>ビルディング 1F</dd>
     </dl>
     
     <ul class="footer-social-list">
