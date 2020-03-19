@@ -18,6 +18,7 @@
   ?>
   <p>お探しの記事はありません</p>
   <?php endif; ?>
+  
 </main>
 
 <?php get_footer(); ?>

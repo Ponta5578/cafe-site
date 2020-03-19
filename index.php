@@ -6,7 +6,7 @@
   <img src="<?php echo get_template_directory_uri(); ?>/images/top-logo.png" srcset="<?php echo get_template_directory_uri(); ?>/images/top-logo.png 1x,<?php echo get_template_directory_uri(); ?>/images/top-logo@2x.png 2x" class="pc-only">
   <img src="<?php echo get_template_directory_uri(); ?>/images/top-logo.png" srcset="<?php echo get_template_directory_uri(); ?>/images/top-logo.png 1x,<?php echo get_template_directory_uri(); ?>/images/top-logo@2x.png 2x" class="sp-only">
   </div>
-
+<!-- NEWS記事の数を指定する -->
   <article class="top-news">
     <h2 class="text-center font-serif">NEWS</h2>
     <ul class="top-news-list column-center">
@@ -47,7 +47,7 @@
     </section>
 
   </article>
-
+<!-- posts_per_pageの部分でMENUの表示画面の数を調整 -->
   <article class="top-menu">
     <h2 class="font-serif">MENU</h2>
     <a href="/menu/" class="arrow-right pc-only top-menu-more">もっと見る</a>
