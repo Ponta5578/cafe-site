@@ -1,5 +1,5 @@
 # cafe-site
-- URL:http://flat-yoron-0559.blush.jp/
+- URL:
 - トップページ
 - お知らせ一覧
 - お知らせ詳細
