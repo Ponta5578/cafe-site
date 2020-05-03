@@ -15,4 +15,3 @@
 - サイト縮小の際に表示されるメニューボタンをjavascriptで実装
 ![36FC1EAC-6D32-47F8-B972-70152460697E](https://user-images.githubusercontent.com/59057488/77076236-e28ea980-6a36-11ea-8de0-6a096458d6de.jpeg)
 ![D2024C70-F163-4638-8B19-CF1DCA4CFE71](https://user-images.githubusercontent.com/59057488/77076245-e4f10380-6a36-11ea-9e3c-d4100a687e5f.jpeg)
-
